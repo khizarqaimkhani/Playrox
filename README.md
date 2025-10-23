@@ -25,13 +25,7 @@ This project showcases an interactive UI, smooth animations, and a clean layout 
 
 ## 🚀 Live Demo
 
-👉 *Coming Soon* (Add your live demo link here once deployed)
-
----
-
-## 📸 Screenshots
-
-_Add screenshots or preview GIFs of your website here._
+👉 *Coming Soon* (https://khizarqaimkhani.github.io/Playrox/)
 
 ---
 
@@ -45,8 +39,7 @@ This project was created as part of my learning journey to improve front-end dev
 
 **Muhammad Khizar**  
 💼 Front-End Developer & Game Enthusiast  
-📧 [Add your email here]  
-🌐 [Add your portfolio or social link]
+📧 [khizarqaimkhai2@gmail.com]  
 
 ---
 
