@@ -3,6 +3,8 @@
 Welcome to **Game Website**, a modern and responsive gaming platform built using **HTML, CSS, and JavaScript**.  
 This project showcases an interactive UI, smooth animations, and a clean layout designed for gamers who love simplicity and style. ⚡  
 
+![My Logo](desktop.png)
+
 ---
 
 ## 🕹️ Features
